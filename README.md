@@ -1,5 +1,8 @@
 # Gestion des Traitements Médicaux
 
+
+![Capture d'écran de l'application](logo.webp)
+
 Cette application a pour but de faciliter la gestion des traitements médicaux et des rendez-vous pour les utilisateurs, en particulier les personnes âgées ou ayant des difficultés à gérer leurs soins de manière autonome. L'application offre une interface simplifiée, avec des fonctionnalités essentielles pour améliorer le suivi médical au quotidien.
 
 ## Fonctionnalités principales
